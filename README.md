@@ -1,10 +1,11 @@
 # Het-shah-Lav-Patel
 ## HET SHAH
 ### INTRO
-HOBBIES 
-
+# HOBBIES -
 1) PHOTOGRAPHY
 2) SPORTS
+
+
 
   
 
