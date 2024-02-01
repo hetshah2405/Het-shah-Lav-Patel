@@ -1,8 +1,12 @@
 # Het-shah-Lav-Patel
 ## HET SHAH
-###### HOBBIES -
+###### HOBBIES-
 1) PHOTOGRAPHY
 2) SPORTS
+
+###### FAVOURITE MOVIES-
+1) AVENGERS
+2) ZNMD
 
 
 
