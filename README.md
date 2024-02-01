@@ -1,6 +1,6 @@
 # Het-shah-Lav-Patel
 # HET SHAH 
-### BACKGROUND-INDIAN
+BACKGROUND-INDIAN
 
 
 
