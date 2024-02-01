@@ -14,4 +14,4 @@
 
 
 
-![Alt text](intro 2.jpg)
+![Alt text](intro2.jpg)
