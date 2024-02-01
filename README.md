@@ -1,7 +1,6 @@
 # Het-shah-Lav-Patel
-HET SHAH
-BACKGROUND-INDIAN
-HOBBIES- PHOTOGRAPHY,SPORTS
+# HET SHAH 
+
 
 
 <img src="images/IMG1.jpg" alt="Image Alt Text" width="400" height="300">
