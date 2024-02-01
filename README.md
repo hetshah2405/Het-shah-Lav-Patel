@@ -1,11 +1,9 @@
 # Het-shah-Lav-Patel
+## HET SHAH
+### INTRO
+1)BACKGROUND-INDIAN 
+2)HOBBIES-PHOTOGRAPHY AND SPORTS
 
-## HEADING 2
-
-#### HEADING 4
-
-###### HEADING 6
-HET SHAH 
 
 <img src="images/IMG1.jpg" alt="Image Alt Text" width="400" height="300">
 
