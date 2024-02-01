@@ -1,3 +1,5 @@
 # Het-shah-Lav-Patel
 
-![Alt text](images/IMG1.jpg)
+
+<img src="images/IMG1.jpg" alt="Image Alt Text" width="300" height="200">
+
