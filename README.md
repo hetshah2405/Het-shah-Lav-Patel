@@ -4,10 +4,9 @@
 HOBBIES 
 
 1) PHOTOGRAPHY
-
 2) SPORTS
 
-2)HOBBIES-PHOTOGRAPHY AND SPORTS
+  
 
 
 <img src="images/IMG1.jpg" alt="Image Alt Text" width="400" height="300">
