@@ -1,6 +1,6 @@
 # Het-shah-Lav-Patel
 
-![Alt text](intro.jpg)
+![Alt text](IMG 1)
 
 
 
@@ -14,4 +14,4 @@
 
 
 
-![Alt text](intro2.jpg)
+![Alt text](IMG 2)
